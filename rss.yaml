@@ -2,3 +2,8 @@
   title: "Tidal-dl releases"
   custom_message: "Updates of pypi"
   chat_id: "frikirss"
+
+- url: "https://pypi.org/rss/project/aigpy/releases.xml"
+  title: "aigpy releases"
+  custom_message: "Updates of pypi"
+  chat_id: "frikirss"
