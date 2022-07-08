@@ -1,9 +1,14 @@
 - url: "https://pypi.org/rss/project/tidal-dl/releases.xml"
-  title: "Tidal-dl releases"
-  custom_message: "Updates of pypi"
+  title: "Tidal-dl-releases"
+  custom_message: "Updates of Tidal-dl"
   chat_id: "frikirss"
 
 - url: "https://pypi.org/rss/project/aigpy/releases.xml"
-  title: "aigpy releases"
-  custom_message: "Updates of pypi"
+  title: "aigpy-releases"
+  custom_message: "Updates of Python-aigpy"
+  chat_id: "frikirss"
+
+- url: "https://pypi.org/rss/project/tidal-gui/releases.xml"
+  title: "tidal-gui-releases"
+  custom_message: "Updates of Tidal-gui"
   chat_id: "frikirss"
