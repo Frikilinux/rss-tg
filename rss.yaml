@@ -1,4 +1,4 @@
-- url: "https://rizkima.com/index.xml"
-  title: "Rizkima"
-  custom_message: "Update from Rizkima"
-  chat_id: "rsstotelegramdev"
+- url: "https://pypi.org/rss/project/tidal-dl/releases.xml"
+  title: "Tidal-dl releases"
+  custom_message: "Updates of pypi"
+  chat_id: "frikirss"
