@@ -12,3 +12,8 @@
   title: "tidal-gui-releases"
   custom_message: "Updates of Tidal-gui"
   chat_id: "frikirss"
+
+- url: "https://archlinux.org/feeds/news/"
+  title: "archlinux-news"
+  custom_message: "Arch Linux News"
+  chat_id: "frikirss"
