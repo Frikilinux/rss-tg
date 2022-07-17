@@ -22,3 +22,8 @@
   title: "qt-material-releases"
   custom_message: "Updates of qt-material"
   chat_id: "frikirss"
+
+- url: "https://gitlab.com/snakedye/salut/-/tags?feed_token=VxkaYyi3oPzfK3Vnyv9h&format=atom"
+  title: "salut-releases"
+  custom_message: "Updates of salut"
+  chat_id: "frikirss"
