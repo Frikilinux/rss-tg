@@ -24,6 +24,11 @@
   chat_id: "frikirss"
 
 - url: "https://gitlab.com/snakedye/salut/-/tags?&format=atom"
-  title: "salut-releases"
+  title: "salut-releases
   custom_message: "Updates of salut"
+  chat_id: "frikirss"
+
+- url: "https://archlinux.org/feeds/releases/"
+  title: "arch-iso-releases
+  custom_message: "Arch Linux ISO releases"
   chat_id: "frikirss"
