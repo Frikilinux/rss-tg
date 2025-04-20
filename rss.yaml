@@ -18,11 +18,6 @@
   custom_message: "Arch Linux News"
   chat_id: "frikirss"
 
-- url: "https://pypi.org/rss/project/qt-material/releases.xml"
-  title: "qt-material-releases"
-  custom_message: "Updates of qt-material"
-  chat_id: "frikirss"
-
 - url: "https://gitlab.com/snakedye/salut/-/tags?&format=atom"
   title: "salut-releases"
   custom_message: "Updates of salut"
