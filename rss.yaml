@@ -27,3 +27,8 @@
   title: "arch-iso-releases"
   custom_message: "Arch Linux ISO releases"
   chat_id: "frikirss"
+
+- url: "https://github.com/intuis/rustmission/releases.atom"
+  title: "rustmission-releases"
+  custom_message: "Rustmission releases"
+  chat_id: "frikirss"
